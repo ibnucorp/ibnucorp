@@ -17,7 +17,7 @@
 - AM ME ~![image](https://github.com/Ibnucorp/Ibnucorp/assets/129638377/ed23080f-24d0-4597-9742-a91d198f810a)
 - Polite greetings, My Teacher, don't forget to eat bakso 🍜
 
-![Flopper](https://media.tenor.com/-PpyZKz3fSMAAAAd/flopper-rotation.gif)
+![](https://media.tenor.com/z4llFHvQ2mwAAAAC/floppa-floppa-spin.gif)
 
 <!--
 **Ibnucorp/Ibnucorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
