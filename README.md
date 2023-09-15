@@ -1,16 +1,32 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Myself
+- 🌱 I’m currently learning to become Myself
+- 👯 I’m looking to collaborate on Myself
+- 🤔 I’m looking for help with Myself
+- 💬 Ask me about Myself
+- 📫 How to reach me: ...
+- 😄 Pronouns: ibnu/hafidz
+- ⚡ Fun fact:
+- I am Me
+- Within Me there is Myself
+- There is no Me except Myself
+- And there is no Me but that I am
+- I command on Myself
+- Because I...
+- AM ME ~![image](https://github.com/Ibnucorp/Ibnucorp/assets/129638377/ed23080f-24d0-4597-9742-a91d198f810a)
+- Polite greetings, My Teacher, don't forget to eat bakso 🍜
 <!--
 **Ibnucorp/Ibnucorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
