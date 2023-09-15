@@ -16,6 +16,9 @@
 - Because I...
 - AM ME ~![image](https://github.com/Ibnucorp/Ibnucorp/assets/129638377/ed23080f-24d0-4597-9742-a91d198f810a)
 - Polite greetings, My Teacher, don't forget to eat bakso 🍜
+
+<img src="https://tenor.com/bz10t.gif" width="100" height="100"/>
+
 <!--
 **Ibnucorp/Ibnucorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
