@@ -2,20 +2,9 @@
 
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently learning to become Myself
-- 👯 I’m looking to collaborate on Myself
-- 🤔 I’m looking for help with Myself
-- 💬 Ask me about Myself
-- 📫 How to reach me: ...
 - 😄 Pronouns: ibnu/hafidz
-- ⚡ Fun fact:
-- I am Me
-- Within Me there is Myself
-- There is no Me except Myself
-- And there is no Me but that I am
-- I command on Myself
-- Because I...
-- AM ME ~![image](https://github.com/Ibnucorp/Ibnucorp/assets/129638377/ed23080f-24d0-4597-9742-a91d198f810a)
-- Polite greetings, My Teacher, don't forget to eat bakso 🍜
+
+~![image](https://github.com/Ibnucorp/Ibnucorp/assets/129638377/ed23080f-24d0-4597-9742-a91d198f810a)
 
 ![](https://media.tenor.com/z4llFHvQ2mwAAAAC/floppa-floppa-spin.gif)
 
