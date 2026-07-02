@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning to become a Backend Dev with PHP
+- 🌱 I’m currently learning Data Analytics with Python
 
 <!--
 **Ibnucorp/Ibnucorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
