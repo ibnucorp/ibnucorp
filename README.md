@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Analytics with Python
+- Young Laravel Web Developer
+- Have past experience with Data Analytics using Python
 
 <!--
 **Ibnucorp/Ibnucorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
